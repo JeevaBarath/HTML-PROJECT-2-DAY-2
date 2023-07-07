@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/03/38/74/04/360_F_338740496_FfNRNF2c5S7ShzOAKfN2KhSnl6htuBwz.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    
+    text-align: center;
+    color: white;
+}
+
+#his{
+    color: pink;
+}
+#tab{
+    color: pink;
+}
+table,th,tr,td{
+    border: 2px solid white;
+    border-collapse: collapse;
+    background-color: black;
+}
+table th{
+    color: white;
+}
